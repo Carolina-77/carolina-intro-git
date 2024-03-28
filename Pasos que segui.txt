@@ -1,0 +1,22 @@
+Pasos que segui
+1-mkdir git-workshop
+cd git-workshop
+2-touch tuNombre.txt
+touch musica.txt
+3-git init
+git add .
+git commit -m “primer commit creación de archivos”
+4- git Branch yo++
+Git checkout yo++
+Git add .
+Git commit -m “modifique tuNombre”
+5- Git checkout master
+Git branch taller-info
+Git checkout taller-info
+Git add .
+Git commit -m “ranking de géneros musicaless mas escuchados, archivo nusica.txt”
+6- git checkout master 
+Git merge yo++ master
+8- git remote add origin https://github.com/Carolina-77/carolina-intro-git.git
+9- git clone https://github.com/Carolina-77/carolina-intro-git
+
